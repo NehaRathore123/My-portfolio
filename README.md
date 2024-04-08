@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+To install All the dependencies 
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -62,8 +66,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+(https://6614060fcce34e008c0ec7f6--bespoke-paletas-873535.netlify.app/)
 
 ### `npm run build` fails to minify
 
